@@ -28,7 +28,8 @@ If you want to host a website:
 * Run `sudo /etc/init.d/hhvm start`
 * Visit your site at `http://.../main.hack`
 
-Our [getting started guide](https://docs.hhvm.com/hhvm/getting-started/getting-started) provides a slightly more detailed introduction as well as links to more information.
+Our [getting started guide]
+(https://docs.hhvm.com/hhvm/getting-started/getting-started) provides a slightly more detailed introduction as well as links to more information.
 
 ## Contributing
 
